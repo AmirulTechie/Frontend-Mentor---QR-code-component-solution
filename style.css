@@ -1,0 +1,70 @@
+/* Variables */
+:root{
+    --whiteColor: hsl(0, 0%, 100%);
+    --LightBlue: hsl(212, 45%, 89%);
+    --GreyColor: hsl(216, 15%, 48%);
+    --DeepBlue: hsl(218, 44%, 22%);
+}
+/* Universal rules */
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+html, body{
+    height: 100%;
+}
+body{
+    font-family: "Outfit", sans-serif;
+    font-weight: 400;
+    background: var(--LightBlue);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1, h2, h3, h4, h5, h6{
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+p{
+    font-size: 15px;
+    font-weight: 400;
+}
+
+/* Card Styling */
+.card{
+    width: 320px;
+    padding: 15px;
+    border-radius: 15px;
+    background: var(--whiteColor);
+}
+
+/* image styling */
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+.card img{
+    border-radius: 10px;
+}
+
+.info_text{
+    padding: 20px 15px;
+    text-align: center;
+}
+
+.info_text h4{
+    color: var(--DeepBlue);
+    font-size: 18px;
+}
+
+.info_text p{
+    color: var(--GreyColor);
+}
