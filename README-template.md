@@ -18,7 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
-
+![](https://github.com/AmirulTechie/Frontend-Mentor---QR-code-component-solution/blob/8bbb22da485d82d6220687583765743f26cf216e/Desktop_view.png)
+![}()
 ### Screenshot
 
 ![](/Qr_code_Frontend_mentor/images/Desktop_view.png)
