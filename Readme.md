@@ -10,7 +10,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![Mobile View](https://github.com/AmirulTechie/Frontend-Mentor---QR-code-component-solution/blob/c5d4d96a13f33209cd3c57bcb9d06f0f6b6c431e/images/Mobile_view.png)
 ### Links
 
-- Live Site URL:[](https://your-live-site-url.com)
+- Live Site URL:[](https://amirultechie.github.io/Frontend-Mentor---QR-code-component-solution/)
 
 ### Built with
 
